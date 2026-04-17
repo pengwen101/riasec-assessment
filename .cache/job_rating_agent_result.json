@@ -1,0 +1,1094 @@
+[
+  {
+    "job_slug": "it-officer-at-pt-hartono-raya-motor--4785",
+    "job_title": "IT Officer",
+    "realistic": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Provide technical support for hardware, software, and networks - Install and maintain computer systems and applications",
+        "trait_tendency": "Realistic individuals are concerned with equipment, tools, and machinery.",
+        "logic": "The role involves hardware and network maintenance, which relates to technical equipment, but the focus is heavily on software and systems rather than physical building or operating heavy machinery."
+      }
+    },
+    "investigative": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Monitor and troubleshoot network performance and security - Ensure data backup and protection procedures - Support users with IT-related problems and training",
+        "trait_tendency": "Investigative individuals enjoy researching, diagnosing, and solving technical problems.",
+        "logic": "The core duties involve monitoring, troubleshooting, and ensuring data security, which requires strong analytical and problem-solving skills."
+      }
+    },
+    "artistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals prefer using creative means like art, music, or drama for expression.",
+        "logic": "The job description is highly technical and operational, with no mention of creative or expressive tasks."
+      }
+    },
+    "social": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Support users with IT-related problems and training",
+        "trait_tendency": "Social individuals like helping, teaching, and supporting people.",
+        "logic": "The requirement to support users and provide training indicates a strong interpersonal and helpful component to the role."
+      }
+    },
+    "enterprising": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Enterprising individuals are interested in leading, persuading, and selling ideas.",
+        "logic": "The role is technical and supportive, lacking explicit requirements for leadership, sales, or initiating large-scale ventures."
+      }
+    },
+    "conventional": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Install and maintain computer systems and applications - Ensure data backup and protection procedures",
+        "trait_tendency": "Conventional individuals prefer organizing data, following procedures, and working with systems.",
+        "logic": "The tasks\u2014installing, maintaining, and following data protection procedures\u2014are structured, detail-oriented, and involve systematic work with data and technology."
+      }
+    }
+  },
+  {
+    "job_slug": "graphic-designer-at-pt-hartono-raya-motor--4786",
+    "job_title": "Graphic Designer",
+    "realistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Realistic individuals prefer working with physical tools, machines, and tangible objects.",
+        "logic": "The job is purely digital and conceptual, focusing on visual design rather than physical labor or machinery operation."
+      }
+    },
+    "investigative": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Stay updated with design trends and tools",
+        "trait_tendency": "Investigative individuals enjoy researching and analyzing information.",
+        "logic": "The need to stay updated with design trends suggests a requirement for continuous research and investigation in the creative field."
+      }
+    },
+    "artistic": {
+      "score": 10,
+      "reasoning": {
+        "job_context_quote": "Create visual concepts for digital and print media - Design logos, brochures, posters, and social media content - Develop layouts, illustrations, and branding materials",
+        "trait_tendency": "Artistic individuals are interested in creative expression, design, and aesthetics.",
+        "logic": "The entire job description centers on visual creation, design, and artistic conceptualization, which is the definition of the Artistic RIASEC trait."
+      }
+    },
+    "social": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Collaborate with marketing and creative teams on campaigns",
+        "trait_tendency": "Social individuals enjoy working with and helping others.",
+        "logic": "The requirement to collaborate with teams implies strong communication and interpersonal skills are needed, giving a moderate social score."
+      }
+    },
+    "enterprising": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Develop layouts, illustrations, and branding materials - Ensure designs align with brand identity and guidelines",
+        "trait_tendency": "Enterprising individuals are often involved in marketing and business goals.",
+        "logic": "Designing materials that align with brand identity and supporting marketing campaigns suggests the role has commercial goals and requires persuasive creative output."
+      }
+    },
+    "conventional": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Edit and enhance images using design software - Ensure designs align with brand identity and guidelines",
+        "trait_tendency": "Conventional individuals are organized, detailed, and follow established procedures.",
+        "logic": "The need to adhere to brand guidelines and use specific software for editing requires precision, attention to detail, and adherence to structured standards."
+      }
+    }
+  },
+  {
+    "job_slug": "e-commerce-executive-at-pt-hartono-raya-motor--4787",
+    "job_title": "E-Commerce Executive",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Collaborate with logistics and operations for order fulfillment",
+        "trait_tendency": "Realistic individuals like working with physical tools, equipment, or building/fixing things.",
+        "logic": "The role involves collaborating with logistics and operations, which relates to physical movement/fulfillment, but the focus is more analytical and managerial."
+      }
+    },
+    "investigative": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "- Monitor website performance, traffic, and customer experience - Analyze sales data and prepare performance reports - Stay updated on e\u2011commerce trends and",
+        "trait_tendency": "Investigative individuals like analyzing, researching, observing, and solving questions.",
+        "logic": "The job explicitly requires monitoring performance, analyzing sales data, and staying updated on trends, which are core investigative functions."
+      }
+    },
+    "artistic": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Coordinate digital marketing campaigns and promotions",
+        "trait_tendency": "Artistic individuals enjoy using creative methods (words, design) for expression or communication.",
+        "logic": "Digital marketing campaigns require creative planning and communication, linking to the expressive nature of the Artistic trait."
+      }
+    },
+    "social": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "- Handle customer inquiries and ensure service quality - Collaborate with logistics and operations for order fulfillment",
+        "trait_tendency": "Social individuals enjoy helping, teaching, serving, and working with people.",
+        "logic": "Handling customer inquiries and ensuring service quality are direct forms of social interaction and customer support."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "- Manage online sales platforms and product listings - Coordinate digital marketing campaigns and promotions",
+        "trait_tendency": "Enterprising individuals like leading, persuading, and initiating ventures/projects.",
+        "logic": "Managing platforms, coordinating campaigns, and driving sales growth demonstrates entrepreneurial initiative and persuasive business leadership."
+      }
+    },
+    "conventional": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "- Analyze sales data and prepare performance reports - Monitor website performance, traffic, and customer experience",
+        "trait_tendency": "Conventional individuals like organizing, working with data/numbers, and following procedures.",
+        "logic": "The requirement to analyze data, monitor metrics, and prepare performance reports aligns strongly with structured, detailed, and quantitative work."
+      }
+    }
+  },
+  {
+    "job_slug": "customer-care-at-pt-hartono-raya-motor--4788",
+    "job_title": "Customer Care",
+    "realistic": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Fulfillment of Standard Measurements, Sales Process related & -requirements",
+        "trait_tendency": "Realistic individuals prefer working with physical tools, machinery, or practical tasks.",
+        "logic": "While the job is customer-facing, the mention of 'Standard Measurements' suggests adherence to physical/procedural requirements in a sales context."
+      }
+    },
+    "investigative": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Complaint Handling Management - On-time, Updates, Reliable Data Quality",
+        "trait_tendency": "Investigative individuals like diagnosing, analyzing, and solving problems.",
+        "logic": "Complaint Handling Management requires problem-solving, diagnosis of issues, and ensuring data reliability, which involves analytical thinking."
+      }
+    },
+    "artistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "Complaint Handling Management",
+        "trait_tendency": "Artistic individuals prefer creative expression (art, music, writing).",
+        "logic": "The job focuses on operational complaint management rather than creative expression."
+      }
+    },
+    "social": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Customer Care",
+        "trait_tendency": "Social individuals like helping, serving, and working with people.",
+        "logic": "The title 'Customer Care' and the nature of 'Complaint Handling Management' make this role highly centered on supporting and interacting with people."
+      }
+    },
+    "enterprising": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Customer Care Dealer Margin achievement.",
+        "trait_tendency": "Enterprising individuals are interested in influencing, selling, and achieving goals/results.",
+        "logic": "The mention of 'Dealer Margin achievement' indicates a focus on sales targets and business results, which is an enterprising function."
+      }
+    },
+    "conventional": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "On-time, Updates, Reliable Data Quality of related System Interface & applications of data inputting & submissions to General Distributor (GD)",
+        "trait_tendency": "Conventional individuals like organizing, following procedures, and working with accurate data/numbers.",
+        "logic": "The job heavily emphasizes data inputting, maintaining reliable data quality, and submitting information according to systems, which are classic conventional tasks."
+      }
+    }
+  },
+  {
+    "job_slug": "finance-and-hr-intern-at-pt-semesta-mendukung-bumi-bumi-journey--4784",
+    "job_title": "Finance and HR Intern",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "assisting with various tasks and gaining exposure to key financial operations as well as HR processes.",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "The role is primarily administrative and focused on financial/HR processes, which are non-physical tasks. The mention of 'financial operations' is too general to score highly."
+      }
+    },
+    "investigative": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "gain exposure to key financial operations as well as HR processes.",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "Exposure to 'financial operations' suggests some level of analysis and understanding of systematic processes, which aligns with investigative curiosity, though the role is entry-level."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals enjoy self-expression through art, music, or drama.",
+        "logic": "The job description focuses entirely on finance and HR administration, with no mention of creative or artistic tasks."
+      }
+    },
+    "social": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "human resources function",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and working with people.",
+        "logic": "The explicit involvement in the 'human resources function' strongly suggests interaction with people, support roles, and concern for employee welfare."
+      }
+    },
+    "enterprising": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Finance and HR Intern... gain hands-on experience in both finance and human resources function.",
+        "trait_tendency": "Enterprising individuals like leading, persuading, and organizing ventures.",
+        "logic": "While the role is an internship, gaining exposure to two major functional departments (Finance and HR) requires organizational aptitude and potential exposure to business development or process improvement, giving a moderate score."
+      }
+    },
+    "conventional": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "detail-oriented Finance and HR Intern... assisting with various tasks... financial operations",
+        "trait_tendency": "Conventional individuals prefer organizing data, following procedures, and accuracy.",
+        "logic": "The focus on 'Finance' and the need to be 'detail-oriented' points directly to working with numbers, records, and established procedures, which are core to the Conventional trait."
+      }
+    }
+  },
+  {
+    "job_slug": "personal-assistant-to-general-manager-at-pt-pakuwon-jati-tbk--4783",
+    "job_title": "Personal Assistant to General Manager",
+    "realistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "Mengatur akomodasi & transportasi perjalanan dinas General Manager",
+        "trait_tendency": "Realistic individuals prefer working with physical tools, machines, and hands-on physical tasks.",
+        "logic": "The tasks are highly logistical and administrative (scheduling, organizing travel), not involving physical labor, tools, or machinery."
+      }
+    },
+    "investigative": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Menyiapkan laporan & tugas administrasi yang dibutuhkan General Manager",
+        "trait_tendency": "Investigative individuals enjoy analyzing information and solving problems.",
+        "logic": "Preparing reports requires synthesizing information and potentially analyzing data, suggesting a minor investigative component, but the role is more organizational than research-focused."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals enjoy self-expression through art, music, or drama.",
+        "logic": "The role is purely managerial support and administrative, with no indication of creative or artistic requirements."
+      }
+    },
+    "social": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Bertindak sebagai perantara General Manager terhadap internal / external",
+        "trait_tendency": "Social individuals are skilled in interpersonal communication, helping, and serving others.",
+        "logic": "Acting as a 'liaison/intermediary' (perantara) between the General Manager and both internal/external parties requires high levels of interpersonal skill, communication, and support."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "General Manager... Mengatur jadwal meeting General Manager Mengatur akomodasi & transportasi perjalanan dinas General Manager",
+        "trait_tendency": "Enterprising individuals are skilled in leadership, organization, and managing complex activities.",
+        "logic": "This role involves high levels of organizational management, gatekeeping (scheduling), and representing the General Manager's interests, which aligns strongly with entrepreneurial and leadership support."
+      }
+    },
+    "conventional": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Menyiapkan laporan & tugas administrasi... Mengatur jadwal meeting General Manager",
+        "trait_tendency": "Conventional individuals thrive on organization, procedures, accuracy, and handling structured data.",
+        "logic": "The core tasks\u2014preparing reports, managing schedules, and handling logistics\u2014are highly structured, detailed, and procedural, fitting the Conventional profile perfectly."
+      }
+    }
+  },
+  {
+    "job_slug": "it-staff-at-rich-palace-hotel--4764",
+    "job_title": "IT Staff",
+    "realistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "Applicants must have graduated with a bachelor's degree in Computer Science or Informatics",
+        "trait_tendency": "Realistic individuals are concerned with physical tools, equipment, and building things.",
+        "logic": "The degree suggests technical knowledge, but the required skills (CS/Informatics) are primarily cognitive and data-based, not physical."
+      }
+    },
+    "investigative": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Applicants must have graduated with a bachelor's degree in Computer Science or Informatics",
+        "trait_tendency": "Investigative individuals like discovering, researching, and solving problems using logic and data.",
+        "logic": "Computer Science and Informatics require strong analytical and problem-solving skills, fitting the Investigative profile well."
+      }
+    },
+    "artistic": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Photography and Graphic Design skills are considered advantageous",
+        "trait_tendency": "Artistic individuals are interested in design, visual arts, and creative expression.",
+        "logic": "While not mandatory, the mention of Graphic Design and Photography skills indicates a connection to creative and visual arts."
+      }
+    },
+    "social": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "No description provided",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and working with people's welfare.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "enterprising": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Enterprising individuals are drawn to leading, persuading, and managing organizations.",
+        "logic": "No specific requirements or descriptions suggest leadership, sales, or business development responsibilities."
+      }
+    },
+    "conventional": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Applicants must have graduated with a bachelor's degree in Computer Science or Informatics",
+        "trait_tendency": "Conventional individuals prefer organizing data, following procedures, and working with structured information.",
+        "logic": "IT roles, especially those requiring specialized degrees like CS/Informatics, involve working with structured data, systems, and established procedures."
+      }
+    }
+  },
+  {
+    "job_slug": "front-desk-agent-at-rich-palace-hotel--4765",
+    "job_title": "Front Desk Agent",
+    "realistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "Proficiency using Microsoft Office suite applications",
+        "trait_tendency": "Realistic individuals prefer working with physical tools, machinery, and manual tasks.",
+        "logic": "The role is customer-facing and administrative, not involving physical labor or machinery operation."
+      }
+    },
+    "investigative": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Proficiency using Microsoft Office suite applications",
+        "trait_tendency": "Investigative individuals like analyzing, diagnosing, and solving complex problems.",
+        "logic": "While administrative, the job requires using software (MS Office), which involves structured data handling and potential problem-solving, but this is minor."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals are interested in creative expression, design, and performing arts.",
+        "logic": "The job description focuses on administration and communication, with no mention of artistic creation."
+      }
+    },
+    "social": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Good command of both written and spoken English",
+        "trait_tendency": "Social individuals enjoy interacting with people, providing service, and helping others.",
+        "logic": "A Front Desk Agent's primary function is customer service, requiring strong interpersonal communication skills and caring interaction with guests, fitting the Social trait perfectly."
+      }
+    },
+    "enterprising": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Good command of both written and spoken English",
+        "trait_tendency": "Enterprising individuals are drawn to leading, persuading, and managing people and situations.",
+        "logic": "Handling guests and operating as a representative of the hotel requires strong communication and the ability to manage expectations and potentially upsell or solve organizational problems, showing persuasive and leadership potential."
+      }
+    },
+    "conventional": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Proficiency using Microsoft Office suite applications",
+        "trait_tendency": "Conventional individuals like organizing data, following procedures, and working with structured information.",
+        "logic": "Front desk work involves strict procedures (check-in/check-out), handling reservations, and using standardized office software (MS Office), which is highly structured and organizational."
+      }
+    }
+  },
+  {
+    "job_slug": "customer-service-at-pt-bank-panin-tbk--3390",
+    "job_title": "Customer Service",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "pembukaan/penutupan rekening",
+        "trait_tendency": "Realistic individuals like working with tangible objects, machines, or physical structures.",
+        "logic": "Opening/closing accounts involves processes, but the context does not suggest physical labor, building, or operating machinery, limiting the score."
+      }
+    },
+    "investigative": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "pemeliharaan dan pengkinian data nasabah sesuai dengan prosedur yang berlaku",
+        "trait_tendency": "Investigative individuals enjoy analyzing data, following procedures, and maintaining accuracy.",
+        "logic": "Updating and maintaining customer data according to established procedures requires attention to detail and systematic handling of information."
+      }
+    },
+    "artistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "Memberikan pelayanan prima kepada nasabah",
+        "trait_tendency": "Artistic individuals express themselves through creative means (art, music, drama).",
+        "logic": "While service requires communication, the context is purely functional and procedural, offering minimal evidence of creative or expressive tasks."
+      }
+    },
+    "social": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Memberikan pelayanan prima kepada nasabah... melakukan peran dan fungsi relationship dengan seluruh nasabah secara berkesinambungan.",
+        "trait_tendency": "Social individuals are concerned with helping, serving, and interacting with people.",
+        "logic": "The core function is providing excellent service and building continuous relationships with customers, which is highly social-oriented."
+      }
+    },
+    "enterprising": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Merekomendasikan untuk tidak melanjutkan memproses calon nasabah jika mengetahui bahwa nasabah terindikasi terkait dengan tindak keja",
+        "trait_tendency": "Enterprising individuals are motivated by leadership, persuading, and achieving goals (sales/influence).",
+        "logic": "The role involves professional decision-making and advisory capacity regarding client status, which requires a degree of persuasive judgment and initiative."
+      }
+    },
+    "conventional": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "pemeliharaan dan pengkinian data nasabah sesuai dengan prosedur yang berlaku",
+        "trait_tendency": "Conventional individuals prefer organizing, following procedures, and working with data and records.",
+        "logic": "The requirement to update and maintain customer data strictly according to established procedures is a textbook example of conventional tasks."
+      }
+    }
+  },
+  {
+    "job_slug": "management-trainee-marketing-departement-at-pt-gajah-mada-sukses-tritunggal--4782",
+    "job_title": "Management Trainee Marketing Departement",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "Merekap hasil penjualan secara rapi dan terorganisir",
+        "trait_tendency": "Realistic individuals prefer physical, hands-on, or mechanical tasks.",
+        "logic": "The job focus is strategic, organizational, and communicative, with no mention of manual labor or equipment operation."
+      }
+    },
+    "investigative": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Menyusun strategi penjualan dengan baik dan tepat",
+        "trait_tendency": "Investigative individuals enjoy analyzing problems, researching, and forming logical strategies.",
+        "logic": "Developing sales strategies requires analytical thinking, research, and problem-solving to identify market gaps and opportunities."
+      }
+    },
+    "artistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Menyusun strategi penjualan dengan baik dan tepat",
+        "trait_tendency": "Artistic individuals use creative expression in communication and design.",
+        "logic": "Marketing inherently requires creative ideas and conceptualization to stand out, though the text focuses more on structure and strategy."
+      }
+    },
+    "social": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Berkoordinasi dengan pimpinan untuk membahas strategi meningkatkan penjualan",
+        "trait_tendency": "Social individuals focus on helping, training, and supporting others.",
+        "logic": "Coordination and discussing strategies involve significant professional interaction, suggesting a supportive or advisory role, but it is not the primary focus."
+      }
+    },
+    "enterprising": {
+      "score": 10,
+      "reasoning": {
+        "job_context_quote": "- Menyusun strategi penjualan dengan baik dan tepat - Memenuhi target, baik dalam bentuk mingguan, bulanan, maupun tahunan",
+        "trait_tendency": "Enterprising individuals are driven by goals, leadership, persuasion, and achieving commercial success.",
+        "logic": "The entire description revolves around sales, meeting targets, and developing strategies to increase sales, which are core functions of the Enterprising trait."
+      }
+    },
+    "conventional": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "- Merekap hasil penjualan secara rapi dan terorganisir",
+        "trait_tendency": "Conventional individuals prefer organizing, handling data, and following structured plans.",
+        "logic": "The tasks of recording ('Merekap') and organizing sales results fit perfectly with the need for systematic record-keeping and accuracy."
+      }
+    }
+  },
+  {
+    "job_slug": "ai-artificial-intelligence-visual-design-intern-at-start-friday-asia-brand-consultant--4789",
+    "job_title": "AI - Artificial Intelligence Visual Design Intern",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "pengembangan grafis brand serta desain visual",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "While design involves tools, the primary focus is on visual and conceptual design, not physical building or mechanics."
+      }
+    },
+    "investigative": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "mendukung strategi pemasaran perusahaan",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "The role requires supporting marketing strategy, which suggests some level of analysis and problem-solving related to brand messaging."
+      }
+    },
+    "artistic": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Visual Design Intern, pengembangan grafis brand serta desain visual",
+        "trait_tendency": "Artistic individuals enjoy using art, music, or drama to express oneself, communicate, or perform, or having a liking for creating or designing things.",
+        "logic": "The job title and description explicitly state 'Visual Design' and 'pengembangan grafis brand serta desain visual,' which is the core function of the Artistic trait."
+      }
+    },
+    "social": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Anda akan bekerja sama dengan tim untuk memastikan setiap proyek mencapai standar visual yang tinggi",
+        "trait_tendency": "Social individuals enjoy working with people to teach, train, inform, help, treat, heal, cure, serve, or greet, and being concerned for the well-being and welfare of others.",
+        "logic": "The requirement to 'work with a team' suggests interpersonal skills and collaboration, aligning with the Social trait, though design is the main focus."
+      }
+    },
+    "enterprising": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "mendukung strategi pemasaran perusahaan",
+        "trait_tendency": "Enterprising individuals are motivated by leading, selling, and persuading others; they are goal-oriented.",
+        "logic": "Supporting corporate marketing strategy and ensuring strong 'brand message' requires persuasive communication and a commercial, goal-oriented approach, touching on the Enterprising domain."
+      }
+    },
+    "conventional": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "menjamin setiap proyek mencapai standar visual yang tinggi",
+        "trait_tendency": "Conventional individuals like working indoors and on tasks that involve organizing and being accurate, following procedures, working with data or numbers, planning work and events.",
+        "logic": "Maintaining high 'visual standards' and ensuring projects meet defined criteria implies adherence to procedures and organized quality control."
+      }
+    }
+  },
+  {
+    "job_slug": "junior-tax-accounting-at-pt-mandiri-kencana-sentosa--4795",
+    "job_title": "JUNIOR TAX ACCOUNTING",
+    "realistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "investigative": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals like using art, music, or drama for self-expression.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "social": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Social individuals prefer interacting with people to teach, train, inform, help, or treat.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "enterprising": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Enterprising individuals like leading, persuading, and selling ideas.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "conventional": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Conventional individuals prefer working indoors with organization, data, and procedures.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    }
+  },
+  {
+    "job_slug": "management-trainee-marketing-at-pt-bfi-finance-indonesia-tbk--4794",
+    "job_title": "Management Trainee Marketing",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "marketing pembiayaan multiguna",
+        "trait_tendency": "Realistic individuals enjoy working with tools, machines, and physical tasks.",
+        "logic": "The context mentions 'pembiayaan' (financing), which is an abstract concept, but marketing implies interaction with physical goods/services, giving a slight relevance to the practical application of the product."
+      }
+    },
+    "investigative": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "memahami bisnis multifinance (pembiayaan konsumen, produktif, atau konsumtif)",
+        "trait_tendency": "Investigative individuals like researching, analyzing, and solving complex problems.",
+        "logic": "The job requires understanding complex business models (consumer, productive, or consumptive financing), suggesting research and analytical skills are necessary."
+      }
+    },
+    "artistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Management Trainee Marketing",
+        "trait_tendency": "Artistic individuals like self-expression, communication, and design.",
+        "logic": "Marketing inherently requires creative communication and presentation skills to promote products and services."
+      }
+    },
+    "social": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Management Trainee | Sales & Marketing merupakan program percepatan karir. Kandidat terpilih akan menerima pelatihan intensif sebelum nantinya menempati posisi strategis",
+        "trait_tendency": "Social individuals prefer interacting with people to help, inform, or teach.",
+        "logic": "Marketing and Sales roles are highly people-centric, requiring constant interaction, communication, and persuasion with clients and colleagues."
+      }
+    },
+    "enterprising": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Management Trainee Marketing",
+        "trait_tendency": "Enterprising individuals are driven by leadership, sales, and influencing others.",
+        "logic": "Marketing and Sales are classic Enterprising fields, requiring the ability to persuade, lead initiatives, and drive business growth."
+      }
+    },
+    "conventional": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Management Trainee Marketing",
+        "trait_tendency": "Conventional individuals prefer structured organization, data handling, and following procedures.",
+        "logic": "While highly creative, marketing within a large finance company requires structured planning, budget tracking, and adherence to corporate procedures."
+      }
+    }
+  },
+  {
+    "job_slug": "supervisor-produksi-at-pt-pitamas-indonusa--4793",
+    "job_title": "SUPERVISOR PRODUKSI",
+    "realistic": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Mengontrol kondisi mesin dan peralatan di area produksi.",
+        "trait_tendency": "Realistic individuals enjoy using and operating tools, equipment, and machinery, and maintaining physical systems.",
+        "logic": "The role explicitly involves controlling and monitoring the condition of machinery and equipment in the production area, which is a core physical/technical task."
+      }
+    },
+    "investigative": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Memonitor kualitas produk di divisi nya masing-masing. Pencapaian target produksi dan penurunan reject hasil produksi. Mengatasi masalah yang timbul dilapangan dan melaporkannya ke atasan.",
+        "trait_tendency": "Investigative individuals prefer observing, investigating, and solving problems using logical analysis.",
+        "logic": "The job requires monitoring product quality, achieving production targets, reducing rejects, and solving problems that arise in the field, all of which demand analytical troubleshooting."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals prefer self-expression through art, music, or performance.",
+        "logic": "The job description is purely focused on technical production management, quality control, and operational procedures, with no mention of creative or artistic tasks."
+      }
+    },
+    "social": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Peningkatan produktivitas karyawan. Mengatasi masalah yang timbul dilapangan dan melaporkannya ke atasan.",
+        "trait_tendency": "Social individuals are concerned with helping, teaching, and improving the welfare of others.",
+        "logic": "The requirement to increase employee productivity and manage on-site problems involves managing and guiding people, which relates to the social trait."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Terlibat dalam perencanaan produksi dengan Kepala Produksi. Pencapaian target produksi dan penurunan reject hasil produksi. Peningkatan produktivitas karyawan.",
+        "trait_tendency": "Enterprising individuals are motivated by leadership, achieving goals, and initiating change/projects.",
+        "logic": "Planning production, setting and achieving production targets, and improving employee productivity all require strong leadership, goal-setting, and managerial initiative, typical of the Enterprising trait."
+      }
+    },
+    "conventional": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Memonitor kualitas produk di divisi nya masing-masing. Melaporkan kinerja produ",
+        "trait_tendency": "Conventional individuals prefer working with organization, following procedures, and handling data.",
+        "logic": "The job involves monitoring product quality and reporting production performance, which requires structured data handling, organization, and adherence to standards."
+      }
+    }
+  },
+  {
+    "job_slug": "digital-marketing-at-bumbi--4792",
+    "job_title": "Digital Marketing",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "Skilled in Capcut Video and Canva Design.",
+        "trait_tendency": "Realistic individuals prefer working with hands, tools, and physical equipment.",
+        "logic": "While using tools (Canva, Capcut) is mentioned, the context is purely digital design and strategy, not physical machinery or hands-on construction/repair."
+      }
+    },
+    "investigative": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "analytics, A/B testing, and able tu manage agencies and creators",
+        "trait_tendency": "Investigative individuals are interested in researching, analyzing, and solving complex problems.",
+        "logic": "The mention of 'analytics' and 'A/B testing' indicates a strong need for data-driven investigation, research, and logical problem-solving, which is central to the Investigative trait."
+      }
+    },
+    "artistic": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Social media growth (TikTok, Instagram, X) Trading-focused content creator and performance ads (Meta & TikTok) Skilled in Capcut Video and Canva Design, with strong copywriting and funnel conversion mindset",
+        "trait_tendency": "Artistic individuals enjoy using words, art, music, or drama for self-expression or performance.",
+        "logic": "The job involves creating content (video, copywriting), managing social media platforms (TikTok, Instagram), and design (Canva), which are highly creative and expressive tasks."
+      }
+    },
+    "social": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Social media growth (TikTok, Instagram, X)",
+        "trait_tendency": "Social individuals prefer interacting with people to teach, help, or serve.",
+        "logic": "Managing social media growth inherently involves communicating with and engaging an audience, which has a social element, though the focus remains on content performance."
+      }
+    },
+    "enterprising": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Trading-focused content creator and performance ads (Meta & TikTok) Skilled in Capcut Video and Canva Design, with strong copywriting and funnel conversion mindset Understands trading/crypto audience, analytics, A/B testing, and able tu manage agencies and creators",
+        "trait_tendency": "Enterprising individuals enjoy persuading, leading, and starting ventures to achieve financial goals.",
+        "logic": "The entire role is focused on marketing performance, driving growth, managing agencies, and generating conversions\u2014all key aspects of business initiative, persuasion, and goal achievement."
+      }
+    },
+    "conventional": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Skilled in Capcut Video and Canva Design, with strong copywriting and funnel conversion mindset Understands trading/crypto audience, analytics, A/B testing",
+        "trait_tendency": "Conventional individuals prefer organization, accuracy, handling data, and following procedures.",
+        "logic": "The requirement to use analytics, A/B testing, and manage funnels involves detailed data tracking, methodical organization, and following conversion procedures."
+      }
+    }
+  },
+  {
+    "job_slug": "tax-section-head-at-pt-mitra-pinasthika-mulia--3380",
+    "job_title": "TAX SECTION HEAD",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Implement and monitor the process of calculating, making and reporting VAT and PPH in accordance with tax regulations and procedures applied in the company",
+        "trait_tendency": "Realistic individuals are involved in physical tasks, building, or operating equipment.",
+        "logic": "The role is highly administrative and computational, with no mention of physical work, machinery, or hands-on building tasks."
+      }
+    },
+    "investigative": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Implement and monitor the process of calculating, making and reporting VAT and PPH in accordance with tax regulations and procedures applied in the company",
+        "trait_tendency": "Investigative individuals prefer discovering, researching, analyzing, and solving complex problems.",
+        "logic": "The job requires detailed understanding, calculation, and monitoring of complex tax regulations and financial procedures, indicating strong analytical and investigative skills."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals are drawn to self-expression through art, music, drama, or design.",
+        "logic": "The job description focuses entirely on technical finance, tax compliance, and accounting, with no requirement for creative or expressive skills."
+      }
+    },
+    "social": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Social individuals prefer interacting with people to teach, help, or serve others.",
+        "logic": "While management roles often involve interaction, the provided context focuses purely on technical financial calculations and reporting, suggesting limited direct service or caregiving focus."
+      }
+    },
+    "enterprising": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Implement and monitor the process of calculating, making and reporting VAT and PPH in accordance with tax regulations and procedures applied in the company",
+        "trait_tendency": "Enterprising individuals like leading, persuading, and initiating ventures.",
+        "logic": "The role involves 'implementing and monitoring' processes and reporting, which suggests a level of responsibility, organization, and possibly driving compliance/business processes."
+      }
+    },
+    "conventional": {
+      "score": 10,
+      "reasoning": {
+        "job_context_quote": "Preparing, calculating and reporting Corporate Income Tax Return",
+        "trait_tendency": "Conventional individuals prefer organization, accuracy, following procedures, and handling data/numbers.",
+        "logic": "This role is fundamentally based on following strict tax regulations, accurate calculation, reporting, and handling sensitive financial data, which are core conventional traits."
+      }
+    }
+  },
+  {
+    "job_slug": "accounting-administration-section-head-at-pt-mitra-pinasthika-mulia--2692",
+    "job_title": "ACCOUNTING & ADMINISTRATION SECTION HEAD",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "MONITORING STOCK UNIT SMH",
+        "trait_tendency": "Realistic individuals are involved in physical tasks, building, or operating equipment.",
+        "logic": "While monitoring stock units involves inventory (a physical concept), the role is administrative and monitoring-focused, not requiring hands-on labor or machine operation."
+      }
+    },
+    "investigative": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "MONITORING FINANCIAL REPORT PREPARATION. 2. MONITORING STOCK UNIT SMH 3. MONITORING TAX & AP. 4. MONITORING AR BIGBIKE.",
+        "trait_tendency": "Investigative individuals prefer analyzing, diagnosing, and solving complex problems.",
+        "logic": "Monitoring various financial areas (reports, tax, accounts receivable) requires analytical skills, attention to detail, and the ability to diagnose discrepancies or ensure accuracy."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals are drawn to self-expression through art, music, drama, or design.",
+        "logic": "The job description is purely focused on financial monitoring and administrative oversight, lacking any requirement for creative or expressive skills."
+      }
+    },
+    "social": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "EXPERIENCED IN LEADING TEAM.",
+        "trait_tendency": "Social individuals prefer interacting with people to teach, help, or serve others.",
+        "logic": "The requirement to be 'experienced in leading team' indicates significant people management and interaction responsibilities, aligning with the service/guidance aspect of Social."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "ACCOUNTING & ADMINISTRATION SECTION HEAD",
+        "trait_tendency": "Enterprising individuals are drawn to leading, organizing, and driving initiatives.",
+        "logic": "Being a 'Section Head' overseeing multiple critical areas (Finance, Tax, Admin) implies leadership, management, and the ability to organize and drive departmental operations."
+      }
+    },
+    "conventional": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "MONITORING FINANCIAL REPORT PREPARATION. 3. MONITORING TAX & AP. 4. MONITORING AR BIGBIKE.",
+        "trait_tendency": "Conventional individuals prefer organization, accuracy, following procedures, and handling data/numbers.",
+        "logic": "The core duties involve monitoring structured financial data, accounts, and tax compliance, which requires high levels of accuracy, organization, and adherence to financial procedures."
+      }
+    }
+  },
+  {
+    "job_slug": "part-sales-coordinator-at-pt-mitra-pinasthika-mulia--4388",
+    "job_title": "Part Sales Coordinator",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Create Marketing and Sales Strategy and coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Realistic individuals are involved in tangible goods, building, fixing, or operating equipment.",
+        "logic": "The role involves 'Part Sales' and achieving 'Sales target,' suggesting interaction with physical goods (parts) and sales coordination, which has a minor realistic component."
+      }
+    },
+    "investigative": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Create Marketing and Sales Strategy and coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Investigative individuals are interested in research, analyzing, and solving problems.",
+        "logic": "The requirement to 'Create Marketing and Sales Strategy' necessitates strategic planning and analytical thinking."
+      }
+    },
+    "artistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Create Marketing and Sales Strategy and coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Artistic individuals are interested in creative expression, design, and aesthetics.",
+        "logic": "Developing a 'Marketing and Sales Strategy' requires creative communication and persuasive presentation skills."
+      }
+    },
+    "social": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Social individuals prefer interacting with people, helping, teaching, and supporting others.",
+        "logic": "The core function involves 'coordinating salesman' and working with 'Channel and Outlet,' which requires significant interpersonal communication and leadership."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Create Marketing and Sales Strategy and coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Enterprising individuals are focused on influence, leadership, persuading, and achieving goals.",
+        "logic": "The role is centered on 'Sales,' 'Marketing Strategy,' and coordinating sales efforts to achieve targets, which are highly enterprising activities."
+      }
+    },
+    "conventional": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Create Marketing and Sales Strategy and coordinate salesman to help Channel and Outlet achieve Sales target.",
+        "trait_tendency": "Conventional individuals prefer organization, data handling, following procedures, and accuracy.",
+        "logic": "Sales coordination and strategy execution require organization and planning, which aligns with conventional traits, though the focus is more on people/strategy."
+      }
+    }
+  },
+  {
+    "job_slug": "ai-artificial-intelligence-interior-and-spatial-design-intern-at-start-friday-asia-brand-consultant--4791",
+    "job_title": "AI \u2013 Artificial Intelligence Interior and Spatial Design Intern",
+    "realistic": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Anda akan terlibat dalam proses perancangan dan pengembangan desain interior yang mendukung kebutuhan branding, ruang kerja, dan presentasi visual klien. Posisi ini memadukan prinsip desain interior dengan pemanfaatan AI-assisted design tools untuk menghasilkan konsep ruang yang fungsional, estetis, dan selaras dengan identitas b",
+        "trait_tendency": "Realistic individuals are involved in physical making, building, and working with tools and equipment.",
+        "logic": "Interior and Spatial Design fundamentally involves working with physical space and objects (rooms, furniture, structures), giving it a moderate realistic component."
+      }
+    },
+    "investigative": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "AI-assisted Interior and Spatial Design Intern, Anda akan terlibat dalam proses perancangan dan pengembangan desain interior...",
+        "trait_tendency": "Investigative individuals are interested in researching, analyzing, and developing concepts.",
+        "logic": "The process of 'perancangan dan pengembangan desain' (design and development) using AI tools requires research, problem-solving, and analytical application of principles."
+      }
+    },
+    "artistic": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Interior and Spatial Design Intern, Anda akan terlibat dalam proses perancangan dan pengembangan desain interior... konsep ruang yang fungsional, estetis, dan selaras dengan identitas b",
+        "trait_tendency": "Artistic individuals are interested in design, aesthetics, and creative expression.",
+        "logic": "The entire role is focused on 'Interior and Spatial Design,' which is a highly creative field requiring aesthetic sensibility and design principles."
+      }
+    },
+    "social": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "mendukung kebutuhan branding, ruang kerja, dan presentasi visual klien.",
+        "trait_tendency": "Social individuals prefer helping and serving others.",
+        "logic": "While the job involves supporting client needs, the primary focus is on technical design and aesthetics, making the social component secondary."
+      }
+    },
+    "enterprising": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "mendukung kebutuhan branding, ruang kerja, dan presentasi visual klien.",
+        "trait_tendency": "Enterprising individuals are focused on goals, persuasion, and business outcomes.",
+        "logic": "The design must support 'branding' and 'client presentation,' which links the creative work to business objectives and client needs."
+      }
+    },
+    "conventional": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "AI-assisted Interior and Spatial Design Intern, Anda akan terlibat dalam proses perancangan dan pengembangan desain interior...",
+        "trait_tendency": "Conventional individuals prefer organization, following procedures, and data handling.",
+        "logic": "Using 'AI-assisted design tools' and adhering to structured 'prinsip desain' implies the need for organization and following technical procedures."
+      }
+    }
+  },
+  {
+    "job_slug": "ai-artificial-intelligence-digital-business-specialist-intern-at-start-friday-asia-brand-consultant--4790",
+    "job_title": "AI - Artificial Intelligence Digital Business Specialist Intern",
+    "realistic": {
+      "score": 1,
+      "reasoning": {
+        "job_context_quote": "mengembangkan strategi digital, pemasaran konten, manajemen media sosial, serta optimasi iklan Google.",
+        "trait_tendency": "Realistic individuals prefer working with hands, tools, or physical building/fixing.",
+        "logic": "The role is highly strategic and digital, with no explicit mention of physical tools, building, or manual labor. The score is low due to the indirect nature of 'optimization' which might involve technical tools, but not physical ones."
+      }
+    },
+    "investigative": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "mengembangkan strategi digital, pemasaran konten, manajemen media sosial, serta optimasi iklan Google.",
+        "trait_tendency": "Investigative individuals enjoy researching, solving problems, and analyzing data/ideas.",
+        "logic": "Developing digital strategies, optimizing Google ads, and managing content requires research, analysis, and problem-solving skills, aligning well with the Investigative trait."
+      }
+    },
+    "artistic": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "pemasaran konten, manajemen media sosial",
+        "trait_tendency": "Artistic individuals enjoy self-expression, communication (writing/designing), and creativity.",
+        "logic": "Content marketing and social media management require creative input, writing, and designing engaging material, which relates to the Artistic domain."
+      }
+    },
+    "social": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Anda juga akan bekerja sama dengan tim untuk memastikan bahwa setiap strategi mendapatkan hasil yang",
+        "trait_tendency": "Social individuals prefer interacting with people, teaching, and helping others.",
+        "logic": "The requirement to 'work with the team' indicates collaborative and interpersonal skills are necessary, scoring moderately high for the Social trait."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "Digital Business Specialist, mengembangkan strategi digital, pemasaran konten, manajemen media sosial, serta optimasi iklan Google.",
+        "trait_tendency": "Enterprising roles often involve leading initiatives, selling ideas, and driving business growth.",
+        "logic": "The title 'Digital Business Specialist' and the core tasks of developing strategies and optimizing ads are highly geared towards business development, sales, and initiative-taking, fitting the Enterprising trait well."
+      }
+    },
+    "conventional": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "optimasi iklan Google.",
+        "trait_tendency": "Conventional individuals prefer organization, accuracy, following procedures, and handling data/numbers.",
+        "logic": "Optimizing Google ads and managing digital marketing tasks involves systematic data tracking, following performance metrics, and organizing campaign data, which aligns with Conventional skills."
+      }
+    }
+  },
+  {
+    "job_slug": "accounting-staff-at-pt-porto-indonesia-sejahtera--3647",
+    "job_title": "Finance Staff",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Mengarsipkan dokumen keuangan dan memastikan kelengkapan serta ketepatan data",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and tangible, physical tasks.",
+        "logic": "The role involves handling and organizing physical financial documents, which is a minor physical/organizational task, but the core work is digital and analytical."
+      }
+    },
+    "investigative": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Mencatat transaksi keuangan harian ke dalam sistem akuntansi perusahaan Menyusun dan memeriksa laporan keuangan Melakukan rekonsiliasi bank untuk menyesuaikan catatan keuangan internal dengan laporan bank",
+        "trait_tendency": "Investigative individuals like analyzing, solving complex problems, and working with data/systems.",
+        "logic": "The core duties\u2014recording transactions, preparing/checking financial reports, and performing bank reconciliations\u2014are highly analytical and data-intensive, requiring deep logical investigation."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals prefer creative expression, design, and non-structured work.",
+        "logic": "The job description is purely technical, procedural, and focused on financial data, leaving no scope for creative expression."
+      }
+    },
+    "social": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Membantu proses tutup buku bulanan dan pelaporan pajak dasar",
+        "trait_tendency": "Social individuals are drawn to helping, teaching, and working with people.",
+        "logic": "While the role is technical, the requirement to 'assist' with month-end closing and tax reporting implies some coordination and interaction with departments or external bodies."
+      }
+    },
+    "enterprising": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Membantu proses tutup buku bulanan dan pelaporan pajak dasar",
+        "trait_tendency": "Enterprising individuals are motivated by leadership, persuasion, and initiating projects.",
+        "logic": "The role requires structured completion of processes (closing books, tax reporting), which involves coordinating inputs from various sources and ensuring compliance, suggesting a degree of project ownership."
+      }
+    },
+    "conventional": {
+      "score": 10,
+      "reasoning": {
+        "job_context_quote": "Mencatat transaksi keuangan harian ke dalam sistem akuntansi perusahaan Menyusun dan memeriksa laporan keuangan Mengarsipkan dokumen keuangan dan memastikan kelengkapan serta ketepatan data",
+        "trait_tendency": "Conventional individuals prefer structured environments, rules, procedures, and organization.",
+        "logic": "The entire job description revolves around following strict accounting rules, recording data into a system, preparing structured reports, and meticulous filing, which is the definition of a conventional role."
+      }
+    }
+  }
+]
