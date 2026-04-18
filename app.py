@@ -15,7 +15,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 async def run_full_analysis(user_scores):
     urls = [
         f"https://panel-alumni.petra.ac.id/api/vacancy?page={page}&type=freelance,fulltime,parttime,internship&system=onsite,remote,hybrid&level_education=diploma,sarjana,magister,doktor&keyword=&salary_range=0,100000000&id_mh_province=&id_mh_city=&perPage=10&orderBy=updated_at&order=DESC&skills=&prody="
-        for page in range(1, 2)
+        for page in range(1, 5)
     ]
 
     st.info("🌐 Fetching latest job vacancies...")
