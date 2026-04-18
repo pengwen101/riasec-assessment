@@ -92,7 +92,7 @@ JOBS TO RATE:
 
 Return ONLY the JSON object. Do not write anything before or after it."""
 
-    response = llm.acomplete(prompt)
+    response = await llm.acomplete(prompt)
     raw_text = response.text if hasattr(response, "text") else str(response)
     print(f"[Batch {batch_num}] LLM response received ({len(raw_text)} chars).")
 
@@ -119,15 +119,18 @@ async def run_job_rating_pipeline(jobs: list, document_path: str, cache_path: st
     cached_slugs = {job['job_slug'] for job in all_results if 'job_slug' in job}
     jobs = [job for job in jobs if job['slug'] not in cached_slugs]
 
-    if len(jobs) > 0:
-        print("Generating RIASEC summary from document...")
-        query_engine = index.as_query_engine(llm=llm, similarity_top_k=4)
-        riasec_context = str(query_engine.query(
-            "Summarize the definitions, traits, and ideal work environments "
-            "for all six RIASEC types: Realistic, Investigative, Artistic, "
-            "Social, Enterprising, Conventional."
-        ))
-        print("Summary generated.\n")
+    if not jobs:
+        print("All jobs already cached.")
+        return all_results
+
+    print("Generating RIASEC summary from document...")
+    query_engine = index.as_query_engine(llm=llm, similarity_top_k=4)
+    riasec_context = str(query_engine.query(
+        "Summarize the definitions, traits, and ideal work environments "
+        "for all six RIASEC types: Realistic, Investigative, Artistic, "
+        "Social, Enterprising, Conventional."
+    ))
+    print("Summary generated.\n")
 
     for i in range(0, len(jobs), batch_size):
         batch = jobs[i:i + batch_size]

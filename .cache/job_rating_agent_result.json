@@ -1090,5 +1090,213 @@
         "logic": "The entire job description revolves around following strict accounting rules, recording data into a system, preparing structured reports, and meticulous filing, which is the definition of a conventional role."
       }
     }
+  },
+  {
+    "job_slug": "staff-gudang-at-pt-nachindo-tape-industry--3886",
+    "job_title": "Staff Gudang",
+    "realistic": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Melakukan penataan barang di gudang baku sesuai dengan layout yang telah ditetapka",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "The job involves physical tasks like arranging and managing physical goods (penataan barang) and overseeing stock counts (Stok Opname)."
+      }
+    },
+    "investigative": {
+      "score": 6,
+      "reasoning": {
+        "job_context_quote": "Mengawasi dan menghitung dengan benar semua transaksi barang masuk dan keluar agar sesuai antara fisik barang dengan surat jalan atau sesuasi dengan bon bahannya.",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "The role requires meticulous observation, counting, and reconciling physical inventory with documents (surat jalan/bon bahan), which is a form of systematic verification."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals are creative and expressive.",
+        "logic": "The job description focuses entirely on physical logistics, inventory control, and administrative procedures, with no mention of creative or artistic tasks."
+      }
+    },
+    "social": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Membantu mempersiapkan pengiriman bahan penunjang dan bahan baku ke produksi sesuai dengan bon bahan",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and working with people.",
+        "logic": "The job requires coordination and preparation for deliveries to production, implying interaction with internal departments, but the primary focus is material handling."
+      }
+    },
+    "enterprising": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Menyelenggarakan Stok Opname gudang baku",
+        "trait_tendency": "Enterprising individuals are persuasive, leaders, and goal-oriented.",
+        "logic": "Managing and organizing stock takes (Stok Opname) requires organizational initiative and accountability for assets, showing some elements of management, but it is not a leadership role."
+      }
+    },
+    "conventional": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Mengawasi dan menghitung dengan benar semua transaksi barang masuk dan keluar agar sesuai antara fisik barang dengan surat jalan atau sesuasi dengan bon bahannya.",
+        "trait_tendency": "Conventional individuals prefer structured rules, data, and established procedures.",
+        "logic": "The entire role is centered on adhering to strict procedures: matching physical items to official documents (surat jalan/bon bahan) and following established layouts."
+      }
+    }
+  },
+  {
+    "job_slug": "tata-usaha-kayu-officer-at-pt-sumatera-dinamika-utama--4798",
+    "job_title": "Tata Usaha Kayu Officer",
+    "realistic": {
+      "score": 3,
+      "reasoning": {
+        "job_context_quote": "Responsible for managing administration, legality documentation, and timber stock & operational reporting.",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "While it involves 'timber stock,' the primary focus is documentation and management, not physical labor or machinery operation."
+      }
+    },
+    "investigative": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Responsible for managing administration, legality documentation, and timber stock & operational reporting.",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "Managing legality documentation and operational reporting requires deep research, analysis, and adherence to complex legal/industry standards."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals are creative and expressive.",
+        "logic": "The job description is purely administrative, technical, and documentation-focused, with no creative component."
+      }
+    },
+    "social": {
+      "score": 4,
+      "reasoning": {
+        "job_context_quote": "Proven experience in administrative roles within the forestry or related industries",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and working with people.",
+        "logic": "Administrative roles inherently involve coordinating information and interacting with internal stakeholders, suggesting some level of organizational communication."
+      }
+    },
+    "enterprising": {
+      "score": 5,
+      "reasoning": {
+        "job_context_quote": "Responsible for managing administration, legality documentation, and timber stock & operational reporting.",
+        "trait_tendency": "Enterprising individuals are persuasive, leaders, and goal-oriented.",
+        "logic": "Managing and reporting on stock and legality requires initiative and the ability to organize processes and guide documentation compliance, showing organizational ambition."
+      }
+    },
+    "conventional": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Responsible for managing administration, legality documentation, and timber stock & operational reporting.",
+        "trait_tendency": "Conventional individuals prefer structured rules, data, and established procedures.",
+        "logic": "The job is heavily focused on administration, documentation, and reporting, which are highly structured, rule-based, and data-intensive tasks."
+      }
+    }
+  },
+  {
+    "job_slug": "associate-tax-staff-at-protax-advisory--4797",
+    "job_title": "Associate Tax Staff",
+    "realistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "investigative": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals prefer creative expression and self-expression.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "social": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and caring for others.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "enterprising": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Enterprising individuals enjoy leading, persuading, and selling ideas.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    },
+    "conventional": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Conventional individuals prefer structured environments, data handling, and following rules.",
+        "logic": "Insufficient data provided in the job description and requirements to evaluate this trait."
+      }
+    }
+  },
+  {
+    "job_slug": "purchasing-at-pt-supranusa-indogita--4796",
+    "job_title": "PURCHASING",
+    "realistic": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "Able to compare prices and conduct cost analysis",
+        "trait_tendency": "Realistic individuals prefer working with tools, machines, and physical tasks.",
+        "logic": "While primarily administrative, the need to compare prices and conduct cost analysis suggests some practical, tangible comparison skills, though this is a very minor fit."
+      }
+    },
+    "investigative": {
+      "score": 7,
+      "reasoning": {
+        "job_context_quote": "Understand purchasing processes, price negotiation, and supplier management... Able to compare prices and conduct cost analysis",
+        "trait_tendency": "Investigative individuals like analyzing and solving complex problems.",
+        "logic": "The job requires understanding complex processes, conducting cost analysis, and managing suppliers, all of which involve significant research and analytical problem-solving."
+      }
+    },
+    "artistic": {
+      "score": 0,
+      "reasoning": {
+        "job_context_quote": "N/A",
+        "trait_tendency": "Artistic individuals prefer creative expression and self-expression.",
+        "logic": "No evidence of creative or aesthetic tasks is provided in the job description or requirements."
+      }
+    },
+    "social": {
+      "score": 2,
+      "reasoning": {
+        "job_context_quote": "Good communication and negotiation skills",
+        "trait_tendency": "Social individuals enjoy helping, teaching, and caring for others.",
+        "logic": "The job involves communication, which is necessary for interaction, but the focus is transactional (purchasing) rather than care or service."
+      }
+    },
+    "enterprising": {
+      "score": 8,
+      "reasoning": {
+        "job_context_quote": "price negotiation, and supplier management... Able to compare prices and conduct cost analysis",
+        "trait_tendency": "Enterprising individuals enjoy leading, persuading, and selling ideas.",
+        "logic": "Negotiation and managing suppliers are core enterprising activities, requiring persuasion, influence, and achieving organizational goals (securing goods/services)."
+      }
+    },
+    "conventional": {
+      "score": 9,
+      "reasoning": {
+        "job_context_quote": "Experienced in handling Purchase Orders (PO) and purchasing administration... Proficient in Microsoft Excel / Office",
+        "trait_tendency": "Conventional individuals prefer structured environments, data handling, and following rules.",
+        "logic": "The role is highly administrative, requiring handling standardized documents (POs), maintaining records, and using structured tools (Excel/Office), fitting the conventional trait strongly."
+      }
+    }
   }
 ]

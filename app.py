@@ -25,7 +25,7 @@ async def run_full_analysis(user_scores):
 
     jobs = [job for page in pages for job in page] # rich jobs
 
-    st.info(f"🤖 Agent 1: Rating {len(jobs)} jobs against the RIASEC framework...")
+    st.info(f"🤖 Agent 1: Rating jobs against the RIASEC framework...")
     job_ratings = await run_job_rating_pipeline(
         jobs=jobs,
         document_path="./docs/career-theory-model-holland-20170501.pdf",
