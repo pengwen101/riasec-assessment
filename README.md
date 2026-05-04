@@ -12,7 +12,7 @@ Furthermore, the actual job matching is not performed directly by the LLM. Inste
 
 ## Some Examples
 
-1. Case 1: User is strong in Investigative, Social, and Conventional
+#### Case 1: User is strong in Investigative, Social, and Conventional
 
 The job retrieved:
 
@@ -22,7 +22,7 @@ An example of the gap identified & video suggestions:
 
 ![alt_text](img/rec_ISC.png)
 
-2. Case 2: User is strong in Artistic, Realistic, and Enterprising
+#### Case 2: User is strong in Artistic, Realistic, and Enterprising
 
 The job retrieved:
 
