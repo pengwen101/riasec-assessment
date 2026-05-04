@@ -1,19 +1,51 @@
 import json
-
+import os
 from llama_index.llms.ollama import Ollama
-from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings
+from llama_index.core import SimpleDirectoryReader, VectorStoreIndex, Settings, StorageContext
 from llama_index.embeddings.ollama import OllamaEmbedding
 from schemas import BatchJobRatings
+from llama_index.vector_stores.qdrant import QdrantVectorStore
+from qdrant_client.models import Distance, VectorParams
+from qdrant_client import QdrantClient
 
 Settings.chunk_size = 384
 Settings.chunk_overlap = 50
+QDRANT_URL      = os.getenv("QDRANT_URL", "http://localhost:6333")
+QDRANT_API_KEY  = os.getenv("QDRANT_API_KEY", None)
+EMBEDDING_DIM=1024
+COLLECTION_NAME = "riasec_index_3"
 
-def build_index(document_path: str):
+def build_index(document_path: str) -> VectorStoreIndex:
+    embed_model = OllamaEmbedding(model_name="mxbai-embed-large")
+
+    client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY)
+    vector_store = QdrantVectorStore(client=client, collection_name=COLLECTION_NAME)
+
+    if client.collection_exists(COLLECTION_NAME):
+        info = client.get_collection(COLLECTION_NAME)
+        if info.points_count is not None and info.points_count > 0:
+            print(f"Loading existing index from Qdrant ({info.points_count} points)...")
+            return VectorStoreIndex.from_vector_store(
+                vector_store=vector_store,
+                embed_model=embed_model,
+            )
+
+    print("Loading document...")
     documents = SimpleDirectoryReader(input_files=[document_path]).load_data()
+
+    client.create_collection(
+        collection_name=COLLECTION_NAME,
+        vectors_config=VectorParams(size=EMBEDDING_DIM, distance=Distance.COSINE),
+    )
+
+    storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
     index = VectorStoreIndex.from_documents(
         documents,
-        embed_model=OllamaEmbedding(model_name="mxbai-embed-large")
+        storage_context=storage_context,
+        embed_model=embed_model,
     )
+    print(f"Index stored in Qdrant collection '{COLLECTION_NAME}'.")
     return index
 
 def extract_json(text: str) -> dict:
